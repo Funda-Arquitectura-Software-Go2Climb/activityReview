@@ -61,3 +61,4 @@ C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Funda\PruebaMic
 C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Funda\PruebaMicroservicio\Microservices\ActivityReview\obj\Release\net7.0\ActivityReview.pdb
 C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Funda\PruebaMicroservicio\Microservices\ActivityReview\obj\Release\net7.0\ActivityReview.genruntimeconfig.cache
 C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Funda\PruebaMicroservicio\Microservices\ActivityReview\obj\Release\net7.0\ref\ActivityReview.dll
+C:\Users\alyne\OneDrive - Universidad Peruana de Ciencias\2023 2\Funda\PruebaMicroservicio\Microservices\ActivityReview\bin\Release\net7.0\Newtonsoft.Json.dll
